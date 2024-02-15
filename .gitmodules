@@ -1,0 +1,9 @@
+[submodule "obsidian-custom-local-graph"]
+	path = obsidian-custom-local-graph
+	url = https://github.com/SrAquaGenius/obsidian-custom-local-graph.git
+[submodule "obsidian-custom-navbar"]
+	path = obsidian-custom-navbar
+	url = https://github.com/SrAquaGenius/obsidian-custom-navbar.git
+[submodule "obsidian-custom-file-classes"]
+	path = obsidian-custom-file-classes
+	url = https://github.com/SrAquaGenius/obsidian-custom-file-classes.git
