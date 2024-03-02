@@ -7,3 +7,6 @@
 [submodule "obsidian-custom-file-classes"]
 	path = obsidian-custom-file-classes
 	url = https://github.com/SrAquaGenius/obsidian-custom-file-classes.git
+[submodule "obsidian-folder-metadata"]
+	path = obsidian-folder-metadata
+	url = ./obsidian-folder-metadata
