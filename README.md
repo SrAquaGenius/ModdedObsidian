@@ -5,4 +5,5 @@ Repo with some ideas/works for obsidian pluggins!
 - Custom file classes;
 - Custom local graph;
 - Custom in-note navigation bar;
-- Folder metadata
+- Folder metadata;
+- Folder/file structure templater;

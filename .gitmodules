@@ -10,3 +10,6 @@
 [submodule "obsidian-folder-metadata"]
 	path = obsidian-folder-metadata
 	url = ./obsidian-folder-metadata
+[submodule "obsidian-folder-templater"]
+	path = obsidian-folder-templater
+	url = https://github.com/SrAquaGenius/obsidian-folder-templater
