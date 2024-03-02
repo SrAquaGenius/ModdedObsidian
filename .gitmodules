@@ -9,7 +9,7 @@
 	url = https://github.com/SrAquaGenius/obsidian-custom-file-classes.git
 [submodule "obsidian-folder-metadata"]
 	path = obsidian-folder-metadata
-	url = ./obsidian-folder-metadata
+	url = https://github.com/SrAquaGenius/obsidian-folder-metadata.git
 [submodule "obsidian-folder-templater"]
 	path = obsidian-folder-templater
-	url = https://github.com/SrAquaGenius/obsidian-folder-templater
+	url = https://github.com/SrAquaGenius/obsidian-folder-templater.git
